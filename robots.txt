@@ -1,0 +1,7 @@
+Sitemap: https://artspectro.com.br
+
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /finan/
+Disallow: /includes/
